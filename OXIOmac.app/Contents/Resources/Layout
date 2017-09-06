@@ -1,0 +1,72 @@
+Section 1
+blocks, walls, obstacles
+
+Section 2
+Tracks, colored walls, boxes
+
+Section 3
+block jumping, negative blocks, light boxes
+
+Section 4
+Each level change the number on one block to a symbol
+fade in lines for walls, lines a little thicker than wall
+dots and arrows on tracks
+fade in symbols on boxes
+fade in line on light
+
+Section 5
+shorten wall lines
+fade out tracks
+fade out fill color on obstacles
+fade out lines connecting to dot
+
+Section 6
+fade out blocks
+fade out light
+change obstacles to black boxes
+fade out fill color on boxes
+
+Section 7
+
+
+
+
+http://www.zeldadungeon.net/breath-of-the-wild-interactive-map/
+https://samurai-gamers.com/legend-zelda-breath-wild/calamity-ganon-final-boss-guide/
+
+x.1 1
+x.2 1
+x.3 1
+x.4 3
+x.5 2
+x.6 2
+x.7 4
+
+
+Section 1
+1.1 1
+1.2 1
+1.3 1
+1.4 3
+1.5 2
+1.6
+1.7
+
+Section 2
+1.6
+
+
+
+
+Section 3
+1.7 3.1
+2.1 3.2
+2.2 3.3
+2.3 3.4
+
+
+
+2.5 2.6
+
+
+

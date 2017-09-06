@@ -1,0 +1,13 @@
+90,170,20,20,0,2
+
+x,y,w,h,color/weight,type,id
+
+color/weight is for switching boxes. color will shade blocks that cannot be crossed by the dot.
+
+types
+0 - switching box. needs id values to change the specific boxes.
+1 - box that cannot be crossed.
+2 - ending point
+3 - Changing box
+
+
